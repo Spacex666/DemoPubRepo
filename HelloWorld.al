@@ -7,5 +7,6 @@ pageextension 50100 CustomerListExt extends "Vendor"
     trigger OnOpenPage();
     begin
         Message('App published: Hello world');
+        Message('New master branch messge');
     end;
 }
