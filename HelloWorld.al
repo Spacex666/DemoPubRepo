@@ -8,5 +8,6 @@ page 50100 CustomerListExt
     begin
         Message('Git merging and Pushing and Commiting');
         Message('App published: Hello world');
+        Message('New branch to be merged');
     end;
 }
